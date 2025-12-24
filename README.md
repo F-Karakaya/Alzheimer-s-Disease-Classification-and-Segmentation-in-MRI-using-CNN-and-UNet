@@ -254,7 +254,7 @@ Special thanks for providing computational resources and research support.
 ## 📬 Contact
 
 **Furkan Karakaya**  
-📧 ce.furkankarakaya@gmail.com  
+📧 se.furkankarakaya@gmail.com  
 
 ---
 
